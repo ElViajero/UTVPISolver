@@ -1,0 +1,19 @@
+/Build
+/3rd Party
+/ClassLibrary1
+/packages
+*/bin
+*/obj
+*/Properties
+**/*.snk
+**/UnsignedKey.snk
+UTVPISolver.sln
+**/*.sln
+**/*.suo
+*.suo
+*.sln
+**/*.csproj
+/WindowsFormsApplication1
+**/*.stats
+**/*.user
+*.user
